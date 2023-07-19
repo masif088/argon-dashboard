@@ -10580,7 +10580,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-  background-color: #5e72e4 !important;
+  background-image: linear-gradient(to bottom, #164B60, #1D5D9B);
 }
 
 .bg-secondary {
